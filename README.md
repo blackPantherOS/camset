@@ -20,6 +20,16 @@ pkg-config
 If running from source (not using the camset pip package) you will also need gi (PyGObject @ pip) and OpenCV (opencv-python @ pip)
 
 **Installation**  
+For blackPanther OS (English)
+1. `updating repos`
+2. `installing camset`
+
+For blackPanther OS (Hungarian)
+1. `frissites forrasok`
+2. `telepites camset`
+
+You can find it menu after install: Camset
+
 For Ubuntu:  
 1. `sudo apt-get install python3 python3-pip v4l-utils pkg-config`  
 2. `pip3 install camset`
